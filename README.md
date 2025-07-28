@@ -7,3 +7,6 @@ Data Science and Analytics at Future Interns
 Task 1: Business E-Commernece Sales Performance Dashboard
 
 Tools Used: Excel, Power Query, & PowerBi
+
+
+![Uploading Sales Performance Dashboard .png…]()
